@@ -1,0 +1,25 @@
+.d-flex.list-group-item {
+    column-gap: 1em;
+    row-gap: 1em;
+    margin-bottom: 0.5em;
+}
+
+.d-flex.flex-md-row {
+    column-gap: 1em;
+}
+
+.d-flex.flex-column {
+    row-gap: 0.5em;
+}
+
+#submitBtn {
+    min-width: 7em;
+}
+
+#todoListOl {
+    --bs-bg-opacity: 0.2;
+}
+
+.modal {
+    background-color: rgba(10, 10, 10, 0.7);
+}
